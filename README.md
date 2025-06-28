@@ -15,7 +15,8 @@ python .\encypter.py  --mode encrypt --url  [url] --file_path [file|folder]
 python .\encypter.py  --mode decrypt --private_key  [path_private_key] --file_path [file|folder]
 
 
-https://github.com/user-attachments/assets/2a4033f7-35e3-4218-994d-268193526933
+https://github.com/user-attachments/assets/566ca49b-0f61-4c8e-a865-2a43a4b9d9de
+
 
 
 To get the results of the profiler:
